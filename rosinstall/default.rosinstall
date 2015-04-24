@@ -4,3 +4,4 @@
 - git: {local-name: src/vigir_footstep_planning/vigir_footstep_planning_msgs, uri: 'https://github.com/team-vigir/vigir_footstep_planning_msgs.git', version: master}
 - git: {local-name: src/vigir_footstep_planning/vigir_footstep_planning_basics, uri: 'https://github.com/team-vigir/vigir_footstep_planning_basics.git', version: hydro}
 - git: {local-name: src/flor_common, uri: 'https://external.torcrobotics.com/flor_common.git', version: master}
+- git: {local-name: src/vigir_manipulation_planning, uri: 'https://github.com/team-vigir/vigir_manipulation_planning.git', version: master}
